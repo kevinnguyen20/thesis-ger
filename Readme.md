@@ -1,6 +1,6 @@
 This project is a latex template for MSc or BSc thesis. 
 
-**Status**: Work on Progress. Main file is missing.
+**Status**: Work in Progress. Main file is missing.
 
 ## Instructions
 You can use the Makefile to generate the pdf document:
